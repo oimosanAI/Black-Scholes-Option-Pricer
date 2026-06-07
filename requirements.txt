@@ -1,0 +1,17 @@
+# Core numerical / pricing dependencies
+numpy==2.4.6
+scipy==1.17.1
+
+# Visualisation (notebook demo)
+matplotlib==3.10.9
+seaborn==0.13.2
+
+# Notebook execution
+jupyter==1.1.1
+
+# Testing
+pytest==9.0.3
+
+# Formatting & linting
+black==26.5.1
+ruff==0.15.16
